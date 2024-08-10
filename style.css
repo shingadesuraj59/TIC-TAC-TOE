@@ -40,6 +40,7 @@ h1{
     font-size: 5vmin;
     color: red;
     background-color: #fff;
+    cursor: pointer;
 }
 #reset{
     padding: 1rem;
@@ -49,8 +50,10 @@ h1{
     border: none;
     width: 100px;
     border-radius: 8px;
-
+    cursor: pointer;
 }
+
+
 #new-btn{
     padding: 10px;
     font-size: 15px;
@@ -59,6 +62,8 @@ h1{
     border: none;
     width: 100px;
     border-radius: 8px;
+    cursor: pointer;
+
 }
 #msg{
     color:#cecece ;
